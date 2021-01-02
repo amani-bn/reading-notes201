@@ -12,7 +12,7 @@
 |read Num: |Read Name|Read Link                                |
 |----------|---------|---------                                |
 |Read1     |Introductory HTML and JavaScript|[link to Read1]() |
-|Read2     |Read2 Name|[link to Read2]()                       |
+|Read2     |Read2 Name|[link to Read2](https://amani-bn.github.io/reading-notes201/class-01.md)                      |
 |Read3     |Read3 Name|[link to Read3]()                       |
 |Read4     |Read4 Name|[link to Read4]()                       |
 |Read5     |Read5 Name|[link to Read5]()                       |
