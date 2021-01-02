@@ -1,7 +1,15 @@
- this web site will include the reading notes for code 201
-# code 201 reading notes
-### [ my  GitHub profile : ](https://github.com/amani-bn)
- ** Table Of Content : **
+# this web site will include the reading notes for code 201
+
+# **code 201 *reading* notes**
+
+ ## my  GitHub profile : [ amani-bn  ](https://github.com/amani-bn)
+
+
+<hr>
+
+
+ # **Table Of Content :**
+
  |read Num:|Read Name|Read Link                               |
  |---------|---------|---------                               |
  |Read1    |Introductory HTML and JavaScript|[link to Read1]()|
