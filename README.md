@@ -2,7 +2,7 @@
 
 # **code 201 *reading* notes**
 
- ## my  GitHub profile : [ amani-bn  ](https://github.com/amani-bn)
+ # my  GitHub profile : [ amani-bn  ](https://github.com/amani-bn)
 
 
 <hr>
