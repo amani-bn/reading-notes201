@@ -4,7 +4,7 @@ People access websites using software called *a web browser* such as chrome, Int
 ## Q: what is the Web servers?
 A: special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them.
 <hr>
-  *Screen readers : programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.*
+  **Screen readers : programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments**
 
 ## Q: what is the Domain Name System (DNS)?
 A: standard protocol that helps Internet users discover websites using human readable addresses,it associated various information with domain names assigned to each of the participatingentities . 
