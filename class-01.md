@@ -1,4 +1,4 @@
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhtml.com%2F&psig=AOvVaw2x9iFv7UFqNAHeaw5Tt141&ust=1609705877681000&source=images&cd=vfe&ved=2ahUKEwjmqMPpi_7tAhV4BWMBHZOWCaEQjRx6BAgAEAc)
+![](html.png)
 # html introduction
 People access websites using software called *a web browser* such as chrome, Internet Explorer, Safari..
 ## Q: what is the Web servers?
@@ -91,11 +91,11 @@ Escape characters are used to include special characters in your pages such as <
 
 # process and design
 ## when you are creating a new website you must determine :
-- specify target audience.
-- Why People Visit YOUR Website.
-- What Your Visitors are Trying to Achieve.
-- What Information Your Visitors Need  to achieve their goals quickly and effectively.
-- How Often People Will Visit Your Site.
+- [ ] specify target audience.
+- [ ] Why People Visit YOUR Website.
+- [ ] What Your Visitors are Trying to Achieve.
+- [ ] What Information Your Visitors Need  to achieve their goals quickly and effectively.
+-[ ] How Often People Will Visit Your Site.
   
   **Site Maps** :  create a diagram of the pages that will be used to structure the site,  allow you to plan the structure of a site.
 
