@@ -2,13 +2,12 @@
 
 # **code 201 *reading* notes**
 
- # my  GitHub profile : [ amani-bn  ](https://github.com/amani-bn)
-
-
 <hr>
 
+ my  GitHub profile : [ amani-bn  ](https://github.com/amani-bn)
 
- # Table Of Content :
+
+ ## Table Of Content :
 |read Num:|Read Name|Read Link                               |
 |---------|---------|---------                               |
 |Read1    |Introductory HTML and JavaScript|[link to Read1]()|
