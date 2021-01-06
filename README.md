@@ -15,7 +15,7 @@
 |Read2     |HTML Text, CSS Introduction, and Basic JavaScript Instructions|[link to Read2](https://amani-bn.github.io/reading-notes201/class-02)                                  |
 |Read3     |HTML Lists, CSS Boxes, JS Control Flow|[link to Read3](https://amani-bn.github.io/reading-notes201/class-03)                       |
 |Read4     |HTML Links, CSS Layout, JS Functions|[link to Read4](https://amani-bn.github.io/reading-notes201/class-04)                       |
-|Read5     |Read5 Name|[link to Read5]()                       |
+|Read5     |HTML Images; CSS Color & Text|[link to Read5](https://amani-bn.github.io/reading-notes201/class-05)                       |
 |Read6     |Read6 Name|[link to Read6]()                       |
 |Read7     |Read7 Name|[link to Read7]()                       |
 |Read8     |Read8 Name|[link to Read8]()                       |
