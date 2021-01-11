@@ -17,7 +17,7 @@
 |Read4     |HTML Links, CSS Layout, JS Functions|[link to Read4](https://amani-bn.github.io/reading-notes201/class-04)                       |
 |Read5     |HTML Images; CSS Color & Text|[link to Read5](https://amani-bn.github.io/reading-notes201/class-05)                       |
 |Read6     |JS Object Literals; The DOM|[link to Read6](https://amani-bn.github.io/reading-notes201/class-06)                       |
-|Read7     |Read7 Name|[link to Read7]()                       |
+|Read7     |HTML Tables; JS Constructor Functions|[link to Read7](https://amani-bn.github.io/reading-notes201/class-07)                       |
 |Read8     |Read8 Name|[link to Read8]()                       |
 |Read9     |Read0 Name|[link to Read9]()                       |
 |Read10    |Read10 Name|[link to Read10]()                     |
