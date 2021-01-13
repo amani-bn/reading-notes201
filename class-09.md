@@ -1,6 +1,7 @@
 # FORMS 
- ## use  form to refer to different elements that allow you to collect information from visitors to
-your site .
+
+ ## use  form to refer to different elements that allow you to collect information from visitors to your site .
+ 
 ## Information from a form is sent in name/value pars .
 
 ### Each form control is given a name, and the text the user types in or the values of the options they select are sent to the serve r.
