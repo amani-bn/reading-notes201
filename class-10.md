@@ -2,7 +2,7 @@
 
 ## EXECUTION CONTEXT JavaScript : Every statement in a script lives in one of three execution contexts .
 
-# # EXECUT.ION CONTEXTS:
+# EXECUTION CONTEXTS:
 
 1. GLOBAL CONTEXT:
 Code that is in the script, but not in a function. There is only one global context in any page .
