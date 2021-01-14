@@ -20,7 +20,7 @@
 |Read7     |HTML Tables; JS Constructor Functions|[link to Read7](https://amani-bn.github.io/reading-notes201/class-07)                       |
 |Read8     |More CSS Layout|[link to Read8](https://amani-bn.github.io/reading-notes201/class-08)                       |
 |Read9     |Forms and JS Events|[link to Read9](https://amani-bn.github.io/reading-notes201/class-09)                       |
-|Read10    |Read10 Name|[link to Read10]()                     |
+|Read10    |JS Debugging|[link to Read10](https://amani-bn.github.io/reading-notes201/class-10)                     |
 |Read11    |Read11 Name|[link to Read11]()                     |
 |Read12    |Read12 Name|[link to Read12]()                     |
 |Read13    |Read13 Name|[link to Read13]()                     |
