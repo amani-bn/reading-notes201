@@ -23,6 +23,6 @@
 |Read10    |JS Debugging|[link to Read10](https://amani-bn.github.io/reading-notes201/class-10)                     |
 |Read11    |Assorted Topics|[link to Read11](https://amani-bn.github.io/reading-notes201/class-11)                     |
 |Read12    |Docs for the HTML ``<canvas>`` Element & ``Chart.js``|[link to Read12](https://amani-bn.github.io/reading-notes201/class-12)                     |
-|Read13    |Read13 Name|[link to Read13]()                     |
+|Read13    |Local Storage|[link to Read13](https://amani-bn.github.io/reading-notes201/class-13)                     |
 |Read14    |Read14 Name|[link to Read14]()                     |
 |Read15    |Read15 Name|[link to Read15]()                     |
