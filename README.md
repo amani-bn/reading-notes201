@@ -24,6 +24,5 @@
 |Read11    |Assorted Topics|[link to Read11](https://amani-bn.github.io/reading-notes201/class-11)                     |
 |Read12    |Docs for the HTML ``<canvas>`` Element & ``Chart.js``|[link to Read12](https://amani-bn.github.io/reading-notes201/class-12)                     |
 |Read13    |Local Storage|[link to Read13](https://amani-bn.github.io/reading-notes201/class-13)                     |
-|Read14a    | CSS Transforms, Transitions, and Animations
-|[link to Read14a](https://amani-bn.github.io/reading-notes201/class-14a)                     |
+|Read14a    | CSS Transforms, Transitions, and Animations |[link to Read14a](https://amani-bn.github.io/reading-notes201/class-14a)                     |
 |Read15    |Read15 Name|[link to Read15]()                     |
